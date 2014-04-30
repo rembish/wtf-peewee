@@ -1,0 +1,6 @@
+build
+debian/files
+debian/python-peewee-wtforms*
+*.pyc
+*.egg
+*.egg-info
